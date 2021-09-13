@@ -460,3 +460,14 @@
 [info] Task Finished at 2021-09-13 07:20:00 Monday
 ============================
 
+============================
+[debug] Begin to login ...
+[debug] Form url:  http://jkgc.hrbeu.edu.cn/infoplus/form/10268728/render
+[debug] Form Status:  SUCCEED
+[debug] Form stJson:  {'errno': 0, 'ecode': 'SUCCEED', 'entities': [{'stepId': 2, 'name': '办结', 'code': 'autoStep1', 'status': 0, 'type': 'Auto', 'flowStepId': 0, 'executorSelection': 0, 'timestamp': 0, 'posts': [], 'users': [], 'parallel': False, 'hasInstantNotification': False, 'hasCarbonCopy': False, 'entryId': 10200234, 'entryStatus': 0, 'entryRelease': False}]}
+[info] Checkin succeed with jsoncode SUCCEED
+:.:.:.:.: Finally :.:.:.:.:
+[info] Notification sended at 2021-09-13 09:08:41 Monday
+[info] Task Finished at 2021-09-13 09:08:41 Monday
+============================
+
